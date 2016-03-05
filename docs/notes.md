@@ -10,3 +10,11 @@ A set of command-line tools that allows a user to create, and run a baseball sim
   c. Command-line tools are used to interact with data
 2. Start simple and grow steadily more complex
 3. Each tool should do one thing well
+
+## Miscellaneous
+
+* Pitcher 
+  * fatigue = pitch count/expected pitch count
+  * days off = int(sqrt(4*innings pitched) - 1.4)
+* Interactive mode as a command-line interface?
+* Pi
